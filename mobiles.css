@@ -1,0 +1,144 @@
+.header .tablet{
+    padding: 0;
+}
+
+.header {
+    width: 100%;
+    height: 84px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header .action {
+    display: none;
+}
+
+.content {
+    width: 100%;
+    max-width: 414px;
+}
+
+.content .content-info .title {
+    width: 414px;
+    padding: 0 6px;
+}
+
+.content .content-info .sub-title {
+    width: 100%;
+}
+
+.services {
+    width: 414px;
+}
+
+.services .services-info {
+    width: 100%;
+}
+
+.services .services-info .title {
+    width: 414px;
+    margin-left: -128px;
+}
+
+.services .desc {
+    font-size: 1.4rem;
+    width: 350px;
+    margin: -20px -97px 0;
+}
+
+.services .services-item img {
+    width: 40px;
+    margin-bottom: -10px;
+}
+
+.services .services-info .title {
+    font-size: 2rem;
+}
+
+.services .services-item .sub-title {
+    font-size: 1.4rem;
+    margin-top: -20px;
+    margin-left: -92px;
+}
+
+.services .services-item {
+    margin-bottom: 20px;
+}
+
+.services .services-item a {
+    font-size: 2rem;
+}
+
+.stats {
+    width: 414px;
+    display: inline;
+    max-width: 100%;
+}
+
+.stats img {
+    width: 100%;
+    object-fit: contain;
+    margin-top: -120px;
+}
+
+.stats .mobile {
+    margin-top: -50px;
+}
+
+.stats .contact {
+    padding: 0 5px;
+}
+
+.stats-second {
+    width: 414px;
+}
+
+.stats-second .stats-info .title {
+    width: 414px;
+    margin-left: -125px;
+    font-size: 2rem;
+}
+
+.stats-second .method-item .mobile-img {
+    width: 50px;
+}
+
+.stats-second .method-list .desc {
+    margin-left: -130px;
+    width: 414px;
+}
+
+.stats-second .ipad-img {
+    width: 414px;
+    min-width: 100%;
+    object-fit: contain;
+    margin-left: -135px;
+}
+
+.stats-second .method-list {
+    display: block;
+    margin: -45px 0;
+}
+
+.footer {
+    display: block;
+    width: 414px;
+    margin: 0 -82px;
+}
+
+.footer .footer-mobile .title {
+    margin-bottom: 0;
+}
+
+.footer .footer-mobile .desc {
+    display: flex;
+    width: 414px;
+    max-width: 100%;
+    margin: 0px -44px;
+    font-size: 1.4rem;
+    flex-wrap: wrap;
+}
+
+.footer .body {
+    margin-bottom: 40px;
+}
